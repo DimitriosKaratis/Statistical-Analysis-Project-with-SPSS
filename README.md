@@ -87,10 +87,5 @@ The work was developed as part of the *Statistics* course at the **Department of
 ## 🔧 Tools & Methods
 - **SPSS** for descriptive statistics, hypothesis testing, correlation, and regression.  
 - **Histograms, Boxplots, Scatterplots** for visual analysis.  
-- **Confidence Intervals** and **t-tests** for statistical inference.  
-
----
-
-## 📑 Authors
-- **Dimitrios Vapóris** – AEM: 10625  
-- **Dimitrios Karatis** – AEM: 10775  
+- **Confidence Intervals** and **t-tests** for statistical inference.
+- Reports are written in Greek, while the README provides an English overview.   
