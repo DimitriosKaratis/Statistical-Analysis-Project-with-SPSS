@@ -3,7 +3,7 @@
 This repository contains the implementation of a project in **Statistics**, focusing on descriptive analysis, hypothesis testing, confidence intervals, correlation, and regression modeling using **SPSS**.  
 The work was developed as part of the *Statistics* course at the **Department of Electrical and Computer Engineering, Aristotle University of Thessaloniki (AUTH).**
 
----
+--- 
 
 ## 📘 Study A – Descriptive and Comparative Analysis
 
